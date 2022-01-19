@@ -40,8 +40,13 @@ De uitkomst:
 Wat is de totaal score?
 
 Voorwaarden:
-- Maak de challenge in Laravel, wij kijken naar de uitkomst, maar ook hoe je het met Laravel hebt opgezet.
-- Upload de code naar Github en stuur een link naar hello@kobaltdigital.nl
+- Schat voor jezelf in hoeveel tijd dit gaat kosten.
+- Maak de challenge in Laravel, wij kijken naar de totaal score, maar ook hoe je het met Laravel hebt opgezet uiteraard.
+- Upload de code naar Github.
+- Stuur een link naar hello@kobaltdigital.nl samen met de daadwerkelijk bestede tijd en je bevindingen waarom je er langer over deed of je sneller klaar was.
 
- 
+Bonuspunten:
+- Commit regelmatig.
+- Vertel, wat vind je van deze challenge? #tipszijnwelkom
+
 */
